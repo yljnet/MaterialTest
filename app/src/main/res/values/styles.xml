@@ -9,4 +9,6 @@
         <item name="android:textColorPrimary">@color/textColorPrimary</item>
     </style>
 
+    <style name="FruitActivityTheme" parent="AppTheme"></style>
+
 </resources>
